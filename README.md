@@ -1,0 +1,7 @@
+- Hi, I’m @MatheusJuK
+- I'm Interested
+- I’m currently learning Java
+- 📫 How to reach me :
+- @matheusrjuca@gmail.com
+- @matheusjuk
+- Pronouns: He/Him
