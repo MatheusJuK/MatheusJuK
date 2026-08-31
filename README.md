@@ -24,6 +24,12 @@ Automated API and web testing suite using Python, Pytest, Selenium, Requests, an
 
 [View repository](https://github.com/MatheusJuK/qa-automation-project)
 
+### Data Structures Study
+
+An ongoing, executable study of data structures and algorithms in Java. It includes my own implementations of trees, graphs, queues, stacks, and linked lists, along with solved exercises—a practical reference I continue to expand as I learn.
+
+[View repository](https://github.com/MatheusJuK/Estrutura-de-Dados)
+
 ## A little more about me
 
 - Software Engineering student at iCEV — academic performance index: **9.42/10**
